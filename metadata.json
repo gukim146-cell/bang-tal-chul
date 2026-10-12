@@ -1,0 +1,6 @@
+{
+  "name": "ChemLab Escape: 화학 실험실 탈출",
+  "description": "실험실에 갇힌 플레이어가 산과 염기의 성질, 주기율표 원소 탐색, 화학 반응식 계수 맞추기, 산화수 계산 미션을 해결하여 탈출하는 인터랙티브 화학 방탈출 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
